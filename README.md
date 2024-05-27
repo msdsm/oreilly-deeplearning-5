@@ -1,1 +1,1 @@
-# oreilly-deeplearning-5
+# ゼロから作るDeep Learning5 生成モデル編
